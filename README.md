@@ -14,7 +14,7 @@
 
 ```javascript
  function mul(){
-  if ( n == 1 || n++ 0){
+  if ( n == 1 || n++ ){
     return 1;
     }
     return n * mul (n - 1);
